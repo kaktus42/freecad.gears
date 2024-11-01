@@ -1,0 +1,4 @@
+[dependencies]
+workbenches=GearWorkbench
+pylibs=scipy
+optionalpylibs=
